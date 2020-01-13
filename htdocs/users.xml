@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <login>faker</login>
+        <email>fake@err.ru</email>
+        <name>faker</name>
+        <salt>3ifjh9fj9a</salt>
+        <password>12345</password>
+        <password_hash>163ed7d2a3d879a3b845c3387300365b</password_hash>
+        <cookie_key>4baf252972e31c6dfcf5</cookie_key>
+        <session_key>b6e361fd647dfdbbc8a7</session_key>
+    </user>
+<User><login/></User></users>
